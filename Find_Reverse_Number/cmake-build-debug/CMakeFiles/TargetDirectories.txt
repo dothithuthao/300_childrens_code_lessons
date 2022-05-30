@@ -1,0 +1,3 @@
+/Users/thaodo/Documents/300_code_c_lessons/300-children-s-code-C-lessons-/Find_Reverse_Number/cmake-build-debug/CMakeFiles/Find_Reverse_Number.dir
+/Users/thaodo/Documents/300_code_c_lessons/300-children-s-code-C-lessons-/Find_Reverse_Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thaodo/Documents/300_code_c_lessons/300-children-s-code-C-lessons-/Find_Reverse_Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
