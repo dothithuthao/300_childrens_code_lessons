@@ -1,0 +1,3 @@
+/Users/thaodo/Documents/300_code_c_lessons/300_childrens_code_lessons/IndexOfTheLargestElementInTheArray/cmake-build-debug/CMakeFiles/IndexOfTheLargestElementInTheArray.dir
+/Users/thaodo/Documents/300_code_c_lessons/300_childrens_code_lessons/IndexOfTheLargestElementInTheArray/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/thaodo/Documents/300_code_c_lessons/300_childrens_code_lessons/IndexOfTheLargestElementInTheArray/cmake-build-debug/CMakeFiles/rebuild_cache.dir
