@@ -1,0 +1,13 @@
+# ninja log v5
+0	152	1654360470768543953	CMakeFiles/FindNumberInArrayAdvanced.dir/main.c.o	297d288996b9aa5c
+153	205	1654360470821948234	FindNumberInArrayAdvanced	17f76e555071b7a8
+0	27	1654360981165702134	CMakeFiles/FindNumberInArrayAdvanced.dir/main.c.o	297d288996b9aa5c
+27	73	1654360981212862914	FindNumberInArrayAdvanced	17f76e555071b7a8
+0	22	1654361116459768654	CMakeFiles/FindNumberInArrayAdvanced.dir/main.c.o	297d288996b9aa5c
+22	53	1654361116490971656	FindNumberInArrayAdvanced	17f76e555071b7a8
+0	22	1654361215439169534	CMakeFiles/FindNumberInArrayAdvanced.dir/main.c.o	297d288996b9aa5c
+22	51	1654361215468978550	FindNumberInArrayAdvanced	17f76e555071b7a8
+1	22	1654361314737382589	CMakeFiles/FindNumberInArrayAdvanced.dir/main.c.o	297d288996b9aa5c
+22	53	1654361314768815403	FindNumberInArrayAdvanced	17f76e555071b7a8
+1	30	1654361675292014701	CMakeFiles/FindNumberInArrayAdvanced.dir/main.c.o	297d288996b9aa5c
+30	63	1654361675325714526	FindNumberInArrayAdvanced	17f76e555071b7a8
